@@ -1,7 +1,7 @@
 # hack-the-climate-coextremes
 
 
-# WORK DESCRIPTION
+# Work Description
 
 Our work is split into two parts:
 1) Analysing co-occurence of extreme events over the next 3 decades of wind conditional to extreme low temperature
