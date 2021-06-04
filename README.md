@@ -1,5 +1,6 @@
 # hack-the-climate-coextremes
 
+When thinking about extreme weather conditions, it’s important to know whether or not variables can take their largest values simultaneously, as this information enables us to select appropriate statistical models. Changes in extremal dependence may also have important consequences for future risk and impact planning; a problem of particular interest is to understand how extremal dependence between weather variables at different locations may change in the future. In this project we examine the future development of the dependence between extreme events using the UKCP18 projections -- more concrete we look at the spatial extension of heatwaves (answering the question which regions will likely experience heatwaves together and whether or not heatwaves will become more localized or more widespread) and at the co-occurrence of high wind, conditional on low temperature: a problem for energy systems since wind-turbines may need to shut down, but energy demand could be high.
 
 # Work Description
 
@@ -9,7 +10,7 @@ Our work is split into two parts:
   - Heat map of the Chi function <img src="https://render.githubusercontent.com/render/math?math=\chi = \lim_{z \to z^*} P ( Y > z | X > z)"> 
   - The variability of the probability of joint extremes with respect to the base period [2010,2020]
   
-2) Analysing co-occurence of extreme events over the next 3 decades high temperature conditional to extreme at a given base point. Here we have down three things:
+2) Analysing co-occurence of extreme high temperature events over the next 3 decades, conditional to extreme at a given base point. Here we have down three things:
   - Produce plots for Chi <img src="https://render.githubusercontent.com/render/math?math=\chi"> for an arbitrary basepoint in the UK and for the time-intervals [2020, 2030], [2030, 2040] and [2040, 2050].
   - Heatwave buddy finder: find regions that are going to experience heatwaves parallely to you.
   - Measuring size (statistically) of heatwaves via connected sets.
