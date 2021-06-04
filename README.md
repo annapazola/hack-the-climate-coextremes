@@ -18,7 +18,7 @@ Our work is split into two parts:
 Results:
 - The presentation of results in 1) can be found in the folder: ```windfarm_coextremes.ipynb``` 
 
-- The presentation of the results in 2) in the file ```heatwave_buddies.ipynb```.
+- The presentation of the results in 2) in the file ```hack-the-climate-coextremes/coextreme_heatwaves/heatwave_buddies.ipynb```.
 
 Preview: 
 
