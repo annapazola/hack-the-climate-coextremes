@@ -7,3 +7,15 @@ required environment
 
 required data
 ```ln -s /shared/groups/jrole001/geog0121/UKCP18 $HOME/UKCP18```
+
+
+# WORK DESCRIPTION
+
+Our work is split into two parts:
+1) Analysing co-occurence of extreme events over the next 3 decades of wind conditional to extreme low temperature
+2) Analysing co-occurence of extreme events over the next 3 decades high temperature conditional to extreme at a given base point. Here we have down three things:
+  - Produce plots for chi for a varying basepoint
+  - Heatwave buddy finder
+  - Measuring size (statistically) of heatwaves via connected sets.
+
+The presentation of results in 1) can be found in the file: ```windfarm_coextremes.ipynb``` and for 2) in the file ```heatwave_buddies.ipynb```.
