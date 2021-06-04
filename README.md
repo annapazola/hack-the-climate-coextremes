@@ -4,13 +4,19 @@
 # Work Description
 
 Our work is split into two parts:
-1) Analysing co-occurence of extreme events over the next 3 decades of wind conditional to extreme low temperature
+1) Analysing co-occurence of extreme event of high wind conditional to extreme low temperature, looking at two different time slices [2020,2030], [2050,2060]. The analysis looked at the Chi function (defined in Coles et al., 2000), considering 4 locations for the wind variables and analyse the:
+  - The Chi function P(W>x|T->-x) 
+  - The variability of the probability of joint extremes wrt to base period [2010,2020]
 2) Analysing co-occurence of extreme events over the next 3 decades high temperature conditional to extreme at a given base point. Here we have down three things:
   - Produce plots for chi for a varying basepoint
   - Heatwave buddy finder
   - Measuring size (statistically) of heatwaves via connected sets.
 
-The presentation of results in 1) can be found in the file: ```windfarm_coextremes.ipynb``` and for 2) in the file ```heatwave_buddies.ipynb```.
+
+Results:
+- The presentation of results in 1) can be found in the folder: ```windfarm_coextremes.ipynb``` 
+
+- The presentation of the results in 2) in the file ```heatwave_buddies.ipynb```.
 
 Preview: 
 
