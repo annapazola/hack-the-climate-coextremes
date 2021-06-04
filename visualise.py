@@ -74,4 +74,4 @@ def plot(xdata, basepoint_label, time_label):
     #da.plot.pcolormesh(cmap=cmap, norm=norm)
     xdata.plot(cmap=cmap, norm=norm,transform=transform) # alternative: transform=ccrs.OSGB()
     ax.set_extent(region, ccrs.PlateCarree())
-    return fig
+    return plt
