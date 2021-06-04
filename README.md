@@ -10,8 +10,8 @@ Our work is split into two parts:
   - The variability of the probability of joint extremes with respect to the base period [2010,2020]
   
 2) Analysing co-occurence of extreme events over the next 3 decades high temperature conditional to extreme at a given base point. Here we have down three things:
-  - Produce plots for Chi <img src="https://render.githubusercontent.com/render/math?math=\chi"> for a varying basepoint.
-  - Heatwave buddy finder.
+  - Produce plots for Chi <img src="https://render.githubusercontent.com/render/math?math=\chi"> for an arbitrary basepoint in the UK and for the time-intervals [2020, 2030], [2030, 2040] and [2040, 2050].
+  - Heatwave buddy finder: find regions that are going to experience heatwaves parallely to you.
   - Measuring size (statistically) of heatwaves via connected sets.
 
 
