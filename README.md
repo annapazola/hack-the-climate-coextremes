@@ -31,3 +31,11 @@ On UCL JupyterHub:
 - required data `ln -s /shared/groups/jrole001/geog0121/UKCP18 $HOME/UKCP18`
 
 For our packages there is a `hack.yml` from which a conda-environment can be created. Additionally for the  `windfarm_coextremes.ipynb` and for the  `heatwave_buddies.ipynb` you will need to install `gradio` from pip: `pip3 install gradio`.
+
+## additional files - calculations
+- `visualise.py`: returns 3 plots (1 for every decade) showing the Chi values on the co-occurence of heatwaves conditional to extreme for a given base point. Usage demonstrated in `visualise_test.ipynb`
+- `VISUALISAION.ipynb`: interactive generation of plots (as above) based on the chosen decade and UK postcode
+
+## additional files - data
+- ```chi_vals[...].txt``` : Chi values on the co-occurence of heatwaves conditional to extreme for all UK base points, for a given decade
+- ```derotated_coordinates.csv```: aggregated data on grid point coordinates + postcodes
