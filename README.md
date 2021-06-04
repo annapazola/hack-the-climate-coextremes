@@ -1,5 +1,7 @@
 # hack-the-climate-coextremes
 
+# Problem Description
+
 When thinking about extreme weather conditions, it’s important to know whether or not variables can take their largest values simultaneously, as this information enables us to select appropriate statistical models. Changes in extremal dependence may also have important consequences for future risk and impact planning; a problem of particular interest is to understand how extremal dependence between weather variables at different locations may change in the future. In this project we examine the future development of the dependence between extreme events using the UKCP18 projections -- more concrete we look at the spatial extension of heatwaves (answering the question which regions will likely experience heatwaves together and whether or not heatwaves will become more localized or more widespread) and at the co-occurrence of high wind, conditional on low temperature: a problem for energy systems since wind-turbines may need to shut down, but energy demand could be high.
 
 # Work Description
@@ -41,10 +43,10 @@ On UCL JupyterHub:
 
 For our packages there is a `hack.yml` from which a conda-environment can be created. Additionally for the  `windfarm_coextremes.ipynb` and for the  `heatwave_buddies.ipynb` you will need to install `gradio` from pip: `pip3 install gradio`.
 
-## additional files - calculations
+## Additional Files - Calculations
 - `visualise.py`: returns 3 plots (1 for every decade) showing the Chi values on the co-occurence of heatwaves conditional to extreme for a given base point. Usage demonstrated in `visualise_test.ipynb`
 - `VISUALISAION.ipynb`: interactive generation of plots (as above) based on the chosen decade and UK postcode
 
-## additional files - data
+## Additional Files - Data
 - ```chi_vals[...].txt``` : Chi values on the co-occurence of heatwaves conditional to extreme for all UK base points, for a given decade
 - ```derotated_coordinates.csv```: aggregated data on grid point coordinates + postcodes
