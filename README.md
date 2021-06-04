@@ -16,17 +16,17 @@ Our work is split into two parts:
 
 
 Results:
-- The presentation of results in 1) can be found in the folder: ```hack-the-climate-coextremes/coextreme_wind_temp/windfarm_coextremes.ipynb``` 
+- The presentation of results in 1) can be found in the folder: ```coextreme_wind_temp/windfarm_coextremes.ipynb``` 
 
-- The presentation of the results in 2) in the file ```hack-the-climate-coextremes/coextreme_heatwaves/heatwave_buddies.ipynb```.
+- The presentation of the results in 2) in the file ```coextreme_heatwaves/heatwave_buddies.ipynb```.
 
 Preview: 
 
-**Screenshot of the tool for 1) in `windfarm_coextremes.ipynb`**:
+**Screenshot of the tool for 1) in `coextreme_wind_temp/windfarm_coextremes.ipynb`**:
 
 ![Screenshot from 2021-06-04 12-45-24](https://user-images.githubusercontent.com/13718882/120797082-790f9380-c533-11eb-8734-3b4109a3d09b.png)
 
-**Screenshot of the tool for 2) in `heatwave_buddies.ipynb`**:
+**Screenshot of the tool for 2) in `coextreme_heatwaves/heatwave_buddies.ipynb`**:
 
 ![Screenshot from 2021-06-04 12-52-03](https://user-images.githubusercontent.com/13718882/120797272-b5db8a80-c533-11eb-8a66-c3c69f5a441c.png)
 
